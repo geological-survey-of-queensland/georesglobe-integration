@@ -1,7 +1,7 @@
 # GeoResGlobe Integration
 GeoResGlobe https://georesglobe.information.qld.gov.au provides an online interactive experience to view Queensland’s mining and exploration data.
 
-The Department's goal is to provide seamless integration between the [https://geoscience.data.qld.gov.au](Geoscience Open Data Portal) and GeoResGlobe. This allows consumers to spatially query, view, and intersect datasets and their related entities.
+The Department's goal is to provide seamless integration between the [Geoscience Open Data Portal](https://geoscience.data.qld.gov.au) and GeoResGlobe. This allows consumers to spatially query, view, and intersect datasets and their related entities.
 
 # GeoResGlobe queries
 
@@ -12,7 +12,7 @@ The Department's goal is to provide seamless integration between the [https://ge
 **Example:** https://georesglobe.information.qld.gov.au/?boreholeNumber=1618  
 
 **Permit Title:** https://georesglobe.information.qld.gov.au/?permitTitle=<permit title>  
-**Example:** [https://georesglobe.information.qld.gov.au/?permitTitle=EPM 26321](https://georesglobe.information.qld.gov.au/?permitTitle=EPM 26321)
+**Example:** [https\:\/\/georesglobe.information.qld.gov.au\/\?permitTitle\=EPM 26321](https://georesglobe.information.qld.gov.au/?permitTitle=EPM 26321)  
 _OR_  
 https://georesglobe.information.qld.gov.au/?permitTitle=EPM26321  
 
