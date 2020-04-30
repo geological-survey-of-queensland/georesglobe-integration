@@ -12,9 +12,9 @@ The Department's goal is to provide seamless integration between the [Geoscience
 **Example:** https://georesglobe.information.qld.gov.au/?boreholeNumber=1618  
 
 **Permit Title:** https://georesglobe.information.qld.gov.au/?permitTitle=<permit title>  
-**Example:** https://georesglobe.information.qld.gov.au/?permitTitle=EPM 26321  
+**Example:** https://georesglobe.information.qld.gov.au/?permitTitle=EPM26321  
 _OR_  
-https://georesglobe.information.qld.gov.au/?permitTitle=EPM26321  
+https://georesglobe.information.qld.gov.au/?permitTitle=EPM 26321  
 
 **Permit Type and Number:** https://georesglobe.information.qld.gov.au/?permitType=<permit type>&permitNumber=<permit number>
 **Example:** https://georesglobe.information.qld.gov.au/?permitType=EPM&permitNumber=26321 
