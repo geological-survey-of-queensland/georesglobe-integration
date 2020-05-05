@@ -5,24 +5,28 @@ The Department's goal is to provide seamless integration between the [Geoscience
 
 # GeoResGlobe queries
 
-**Seismic Survey:** https\://georesglobe.information.qld.gov.au/?seismicSurveyNumber=\<Survey Number\>  
-**Example:** https://georesglobe.information.qld.gov.au/?seismicSurveyNumber=80029  
+**Seismic Survey:** `https://georesglobe.information.qld.gov.au/?seismicSurveyNumber=<Survey Number>`
 
-**Borehole:** https\://georesglobe.information.qld.gov.au/?boreholeNumber=\<bore no\>  
+**Example:** https://georesglobe.information.qld.gov.au/?seismicSurveyNumber=80029
+
+**Borehole:** `https://georesglobe.information.qld.gov.au/?boreholeNumber=<bore no>`
+
 **Example:** https://georesglobe.information.qld.gov.au/?boreholeNumber=1618  
 
-**Permit Title:** https\://georesglobe.information.qld.gov.au/?permitTitle=\<permit title\>  
+**Permit Title:** `https://georesglobe.information.qld.gov.au/?permitTitle=<permit title>`  
+
 **Example:** https://georesglobe.information.qld.gov.au/?permitTitle=EPM26321  
 _OR_  
 https://georesglobe.information.qld.gov.au/?permitTitle=EPM 26321  
 
-**Permit Type and Number:** https\://georesglobe.information.qld.gov.au/?permitType=\<permit type>&permitNumber=<permit number>
+**Permit Type and Number:** `https://georesglobe.information.qld.gov.au/?permitType=<permit type>&permitNumber=<permit number>`
+  
 **Example:** https://georesglobe.information.qld.gov.au/?permitType=EPM&permitNumber=26321 
 
 # Resource Authority Report
 MyMinesOnline provides a resource authority (permit) report.
 
-https\://myminesonlineservices.business.qld.gov.au/Web/PublicEnquiryReport.htm?permitType=\<permit type abbreviation\>&permitNumber=\<permit number\>
+`https://myminesonlineservices.business.qld.gov.au/Web/PublicEnquiryReport.htm?permitType=<permit type abbreviation>&permitNumber=<permit number>`
 
 **Example** https://myminesonlineservices.business.qld.gov.au/Web/PublicEnquiryReport.htm?permitType=PL&permitNumber=8
 
