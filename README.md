@@ -33,15 +33,9 @@ MyMinesOnline provides a resource authority (permit) report.
 ## Licence
 The content of this repository is licensed for use with the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [license deed](LICENSE) for details.
 
-## Contacts 
-*owner*:  
-**Mark Gordon**  
-*Director - Geoscience Information*  
-Geological Survey of Queensland  
-<mark.gordon@dnrme.qld.gov.au>  
-
-*author*:  
-**Kim Estrin**  
-*Senior Spatial Information Officer*  
-Department of Natural Resources, Mines and Energy   
-<your.email@dnrme.qld.gov.au>
+## Contacts
+**Geoscience Information Team**,
+Geological Survey of Queensland,
+Department of Resources,
+Brisbane, QLD, Australia,
+<geological_info@resources.qld.gov.au>
